@@ -1,4 +1,4 @@
-# Dasher UI - Minimal Next.js Admin Dashboard Template
+# Pulse CRM Dashboard – Modern React Admin Template
 
 #### Preview
 
